@@ -1,2 +1,2 @@
 
-https://kredi-hesapla.netlify.app/****
+https://kredi-hesapla.netlify.app/
